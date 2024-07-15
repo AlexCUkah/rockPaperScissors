@@ -1,0 +1,17 @@
+{
+  "name": "rockpaperscissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rockPaperScissors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexCUkah/rockPaperScissors.git"
+  },
+  "private": true,
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
